@@ -1,1 +1,8 @@
-# Helpdesk-Support-Ticket-Engine
+# Helpdesk Support Engine
+
+Run:
+```bash
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+```
